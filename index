@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="/my prac/clg class/style.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1.h {
+            text-align: center;
+            font-size: 2.5em;
+            color: #0077b5;
+        }
+        a {
+            color: #0077b5;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        h2 {
+            border-bottom: 2px solid #0077b5;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin: 0 0 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #0077b5;
+            color: white;
+        }
+        td {
+            background-color: #f9f9f9;
+        }
+        .signature {
+            text-align: right;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="h">Resume</h1>
+        <h1 class="h">SHASHANK SEHGAL</h1>
+
+        <a href="https://www.linkedin.com/in/shashank-sehgal-852842278/">LinkedIn Profile</a>
+        <!-- <img src="/1726933200842.jpeg" id="img"> -->
+        <hr>
+
+        <h2>Contact Information:</h2>
+        <p>
+            Phone number: 6266342576<br>
+            Email address: sehgalshashank95@gmail.com<br>
+            Address: A-604 Horizon Oasis Green, Mahalaxmi Nagar, Indore (M.P) 452010
+        </p>
+
+        <h2>Personal Information:</h2>
+        <p>
+            DOB: 28/08/2004<br>
+            Gender: Male<br>
+            Hobbies: Reading novels, Cycling<br>
+            Languages Known: English, Hindi
+        </p>
+
+        <h2>Educational Qualification</h2>
+        <table>
+            <tr>
+                <th>Education Level</th>
+                <th>Institution</th>
+            </tr>
+            <tr>
+                <td>Schooling</td>
+                <td>Lokmanya Tilak H.S School</td>
+            </tr>
+            <tr>
+                <td>College</td>
+                <td>Prestige Institute of Engineering, Management and Research</td>
+            </tr>
+            <tr>
+                <td>Skills</td>
+                <td>
+                    Full Stack Web Development<br>
+                    Competitive Programming<br>
+                    Communication Skills<br>
+                    MS Office<br>
+                    Java with Data Structures and Algorithms
+                </td>
+            </tr>
+        </table>
+
+        <h2>Projects:</h2>
+        <p>
+            Hotel Booking App: Developed an end-to-end solution enabling users to seamlessly book hotel appointments, incorporating front-end design, back-end functionality, and database management using MERN Stack technology.
+        </p>
+        <p>
+            Frontend Tourism Project: Designed captivating user interfaces for a tourism website showcasing Madhya Pradesh's attractions, enhancing user experience and engagement with intuitive navigation and visually appealing layouts.
+        </p>
+        <p>
+            Notes App: Created a versatile mobile application using Flutter, allowing users to efficiently organize and manage notes, offering seamless synchronization across multiple devices for enhanced productivity.
+        </p>
+
+        <h2>Certifications and Achievements:</h2>
+        <p>
+            An active placement cell member for the past year - Successfully managed campus drives and events.<br>
+            IIT Indore Fluxes Workshop 2023 - Explored web development fundamentals, covering HTML, CSS, and JavaScript for building dynamic websites.<br>
+            Joint Secretary in Cyber Security Cell - Facilitated initiatives for enhancing digital security awareness and resilience, and conducted workshops.<br>
+            Secured 2nd runner-up in Flutter workshop
